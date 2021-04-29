@@ -44,7 +44,7 @@
     "log-symbols": "^4.0.0",
     "node-bourbon": "^4.2.8",
     "npm-force-resolutions": "0.0.3",
-    "panini": "^1.7.1",
+    "panini": "^1.6.3",
     "sass": "^1.30.0",
     "vinyl-source-stream": "^2.0.0"
   },
